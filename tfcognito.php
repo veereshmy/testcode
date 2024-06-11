@@ -1,5 +1,8 @@
 <?php
 session_start();
+
+// code moved to Github
+
 //https://crm.thoughtfocus.com/tfcognito.php
 /* $cognito_domain = "https://<domain>.auth.ap-southeast-2.amazoncognito.com";
 $client_id = "<client id>";
